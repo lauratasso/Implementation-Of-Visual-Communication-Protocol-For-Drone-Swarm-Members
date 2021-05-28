@@ -1,4 +1,4 @@
-# Protocol For Visual Communication In A Drone Swarm
+# Protocol For Visual Communication With Drone Swarm
 
 This algorithm was created for my final project of college.
 
