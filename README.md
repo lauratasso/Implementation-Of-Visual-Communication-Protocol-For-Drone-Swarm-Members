@@ -2,4 +2,4 @@
 
 This algorithm was created for my final project of college.
 
-I use Python 3.0 and Coppelia Robots library for the simulation.
+I used Python 3.0 and Coppelia Robots library for the simulation.
