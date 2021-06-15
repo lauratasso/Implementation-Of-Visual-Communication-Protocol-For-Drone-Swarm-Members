@@ -1,4 +1,4 @@
-# Implementation Of a Visual Communication Protocol For Drone Swarm Members
+# Implementation Of Visual Communication Protocol For Drone Swarm Members
 
 This algorithm was created for my final project of college.
 
